@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+.ttt{
+    width: 40rem;
+}
+.imm img{
+    width: 13rem;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.anc a{
+    text-decoration: none;
+}
+.yy button{
+    width: 100%;
+}
+.cc .log-in{
+    background-color: #EDF2F7;
+    padding: 5px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+.cc .log-in a{
+    font-size: 1.5rem;
+}
